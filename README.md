@@ -1,5 +1,5 @@
 # LRUCache
-## LRUCache Implementation
+### LRUCache Implementation
 
 A Last Recently Used Cache implemented using a HashMap and a Doubly Linked List.
 Each time a value is accessed, it is added to the head of a queue implemented
@@ -10,7 +10,7 @@ new value
 Pablo Arango
 
 
-## Methods
+### Methods
 - **LRUCache <K,V>**:
 - **LRUCache**:
 - **LRUCache**:
