@@ -18,3 +18,7 @@ an integer for the capacity of the LRU Cache. (Capacity cannot be 0 or less)
  currently in the cache, else it returns null
 - **contains()**: Returns a HashMap of the current keys and objects in the cache
 - **size()**: Returns the currents size of the cache.
+
+### Testing
+
+The LRUCacheTests tests a few key items. It tests that the methods work properly and it tests that it can use different objects. The tests run through first using only integers then using integers and strings.
