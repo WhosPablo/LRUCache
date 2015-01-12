@@ -14,7 +14,7 @@ Pablo Arango
 - **LRUCache \<Key, Value\> (int capacity)**: Constructor for the LRU Cache takes in
 an integer for the capacity of the LRU Cache. (Capacity cannot be 0 or less)
 - **put(K key, V obj)**: Takes in the key and object and places it in the cache. If the cache is full then it will replace the last recently used Object.
-- **get(K key)**: takes in the key and returns the object in the cache if it is
+- **get(K key)**: Takes in the key and returns the object in the cache if it is
  currently in the cache, else it returns null
-- **contains()**: returns a HashMap of the current keys and objects in the cache
-- **size()**:
+- **contains()**: Returns a HashMap of the current keys and objects in the cache
+- **size()**: Returns the currents size of the cache.
