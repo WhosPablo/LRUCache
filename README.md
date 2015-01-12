@@ -11,6 +11,6 @@ Pablo Arango
 
 
 ### Methods
-- **LRUCache '<K,V>'**:
+- **LRUCache '<'K,V'>'**:
 - **LRUCache**:
 - **LRUCache**:
