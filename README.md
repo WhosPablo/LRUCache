@@ -1,5 +1,5 @@
-# LRUCache
-### LRUCache Implementation
+# LRU Cache
+### LRU Cache Implementation
 
 A Last Recently Used Cache implemented using a HashMap and a Doubly Linked List.
 Each time a object is accessed, it is added to the head of a queue implemented
